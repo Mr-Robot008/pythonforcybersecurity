@@ -2,4 +2,7 @@ Milk
 Bread
 Bananas
 Eggs
-
+butter
+chips
+juice
+water bottles
